@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestWebServiceTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestWebServiceTest</output-path>
+    <root id="archive" name="RestWebServiceTest.war">
+      <element id="javaee-facet-resources" facet="RestWebServiceTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RestWebServiceTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
